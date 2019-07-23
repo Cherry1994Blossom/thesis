@@ -15,16 +15,24 @@
 <p>
 pip install...
 </p><br/>
+<p dir="rtl" align="right">
 نصب کردم
 <br/>
 خطای
+</p>
 <br/>
+<p>
  cannot import name ROOT_PATH
+</p>
 <br/>
+<p dir="rtl" align="right">
+
 میداد اومدم کالی لینوکس نصب کردم
 <br/>
 با دستورات زیر مسیرم رو پیدا کردم ولی بازم خطا گرفتم !!!!!!
-</br>
+</p>
+<br/>
+<p>
 alibani@alibani-PC:~$ ls
 </br>
 alibani@alibani-PC:~$ su -

@@ -24,9 +24,7 @@ pip install...
 <p>
  cannot import name ROOT_PATH
 </p>
-<br/>
 <p dir="rtl" align="right">
-
 میداد اومدم کالی لینوکس نصب کردم
 <br/>
 با دستورات زیر مسیرم رو پیدا کردم ولی بازم خطا گرفتم !!!!!!

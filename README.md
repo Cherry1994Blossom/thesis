@@ -88,6 +88,6 @@ E:Unable to locate package python-pip</p><p dir="rtl" align="right">
 </br>sudo apt update
 </br>sudo apt install python-pip
 </p><p dir="rtl" align="right">
-وسطش پرسید(y)و منy رو زدم تا نصب تموم بشه
+وسطش پرسید(Y/n)و منY رو زدم تا نصب تموم بشه
 </p>
 

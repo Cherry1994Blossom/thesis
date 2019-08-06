@@ -63,8 +63,31 @@ ImportError: cannot import name ROOT_PATH
 </br>
 root@alibani-PC:~/jingwei/jingwei-master/baselines#
 </p>
-
-
-
-
+<p dir="rtl" align="right">
+اومدم اوبونتو 18.4 نصب کردم
+</br>
+بعد توی مسیرroofs/home فایل های data , jingwei رو اضاف کردم
+</br>
+مسیر هاشون رو به start.sh اضاف کردم
+</p>
+<p>
+permission denied ....
+</br>
+chmod +x *
+</p><p dir="rtl" align="right">
+مشکل رفع شد
+</br>
+خواستم دستور زیر رو اجرا کنم ک خطا گرفتم 
+</p><p>
+sudo apt install python-pip
+</br>
+E:Unable to locate package python-pip</p><p dir="rtl" align="right">
+مراحل زیر رو انجام دادم که خطا رفع بشه :
+</p><p>sudo nano /etc/apt/sources.list
+</br>Press Ctrl+O to save the file
+</br>sudo apt update
+</br>sudo apt install python-pip
+</p><p dir="rtl" align="right">
+وسطش پرسید(y)و منy رو زدم تا نصب تموم بشه
+</p>
 

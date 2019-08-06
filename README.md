@@ -96,7 +96,7 @@ pip install jupyter
  </br>
  sudo apt install jupyter-core
 </p><p dir="rtl" align="right">
- همه اینارو زدم ولی اشتباه بود 
+  همه اینارو زدم ولی اشتباه بود با دستور زیر درست شد:
 </p>
 <p>
 Ubuntu 18.04 :

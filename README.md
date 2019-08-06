@@ -89,5 +89,21 @@ E:Unable to locate package python-pip</p><p dir="rtl" align="right">
 </br>sudo apt install python-pip
 </p><p dir="rtl" align="right">
 وسطش پرسید(Y/n)و منY رو زدم تا نصب تموم بشه
+</br>
+دستور زیر رو زدم
+</p><p>
+pip install jupyter
+ </br>
+ sudo apt install jupyter-core
+</p><p dir="rtl" align="right">
+ همه اینارو زدم ولی اشتباه بود 
 </p>
-
+<p>
+Ubuntu 18.04 :
+</br>
+sudo apt install python3-notebook jupyter jupyter-core python-ipykernel  
+</br>
+To start the notebook server run the following command:
+</br>
+jupyter notebook
+</p>
